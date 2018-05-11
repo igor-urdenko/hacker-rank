@@ -1,4 +1,4 @@
-package ingvar.sandbox.hackerrank;
+package ingvar.sandbox.hackerrank.problemsolving;
 
 public interface Solution {
     /**  **/

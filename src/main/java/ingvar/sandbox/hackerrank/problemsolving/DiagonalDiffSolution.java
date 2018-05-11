@@ -1,6 +1,4 @@
-package ingvar.sandbox.hackerrank.diagonaldiff;
-
-import ingvar.sandbox.hackerrank.Solution;
+package ingvar.sandbox.hackerrank.problemsolving;
 
 import java.security.SecureRandom;
 

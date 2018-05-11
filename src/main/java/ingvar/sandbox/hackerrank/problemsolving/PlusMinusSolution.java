@@ -1,9 +1,7 @@
 /*
  * Copyright (c) for the problem: Hacker Rank (https://www.hackerrank.com/challenges/plus-minus/problem)
  */
-package ingvar.sandbox.hackerrank.plusminus;
-
-import ingvar.sandbox.hackerrank.Solution;
+package ingvar.sandbox.hackerrank.problemsolving;
 
 import static ingvar.sandbox.hackerrank.util.ConsoleWriter.arr2str;
 import static ingvar.sandbox.hackerrank.util.ConsoleWriter.outln;

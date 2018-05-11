@@ -1,7 +1,9 @@
 package ingvar.sandbox.hackerrank;
 
-import ingvar.sandbox.hackerrank.diagonaldiff.DiagonalDiffSolution;
-import ingvar.sandbox.hackerrank.plusminus.PlusMinusSolution;
+import ingvar.sandbox.hackerrank.problemsolving.DiagonalDiffSolution;
+import ingvar.sandbox.hackerrank.problemsolving.PlusMinusSolution;
+import ingvar.sandbox.hackerrank.problemsolving.Solution;
+import ingvar.sandbox.hackerrank.problemsolving.StaircaseSolution;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -52,6 +54,7 @@ public class HackerRankApplication implements CommandLineRunner {
 
         solutions.put(1, new DiagonalDiffSolution());
         solutions.put(2, new PlusMinusSolution());
+        solutions.put(3, new StaircaseSolution());
     }
 
     /**  **/
